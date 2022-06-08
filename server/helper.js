@@ -6,7 +6,7 @@
 
 import fs from 'fs';
 import path from 'path';
-import serialize from 'serialize-javascript';
+// import serialize from 'serialize-javascript';
 
 import React from 'react';
 import { renderToString, renderToNodeStream } from 'react-dom/server';

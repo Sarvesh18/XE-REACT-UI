@@ -1,0 +1,9 @@
+.footer {
+    display: flex;
+    align-items: end;
+}
+
+.footer__title {
+    font-weight: bold;
+    text-align: center;
+}
